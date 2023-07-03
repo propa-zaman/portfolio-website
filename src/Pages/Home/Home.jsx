@@ -7,6 +7,7 @@ import ProductList from '../../Components/ProductList/ProductList';
 import Toggle from '../../Components/Toggle/Toggle';
 import Contact from '../../Components/Contact/Contact';
 import { ThemeContext } from "../../context";
+import Skills from '../../Components/Skills/Skills';
 
 
 const Home = () => {
@@ -22,6 +23,7 @@ const Home = () => {
             <Toggle></Toggle>
             <Intro></Intro>
             <About></About>
+            <Skills></Skills>
             <ProductList></ProductList>
             <Contact></Contact>
         </div>

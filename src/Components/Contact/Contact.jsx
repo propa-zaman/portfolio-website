@@ -37,13 +37,13 @@ const Contact = () => {
           <h1 className="c-title">Let's discuss your project</h1>
           <div className="c-info">
             <div className="c-info-item">
-             <FaPhone></FaPhone>
+             <FaPhone></FaPhone> <div>01719221022</div>
 
-              01719221022
+           
             </div>
             <div className="c-info-item">
               <FaMailBulk></FaMailBulk>
-              
+
               propazaman12@gmail.com
             </div>
             <div className="c-info-item">
